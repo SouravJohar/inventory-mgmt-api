@@ -9,6 +9,7 @@ A simple Inventory Management API for the Shopify backend Engineer challenge
 ## Setup
 
 ```pip install -r requirements.txt```
+
 ```python inventory_manager/app.py```
 
 Access the API at `localhost:8080/api/`
